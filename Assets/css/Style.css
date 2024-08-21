@@ -1,3 +1,8 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
 .contact {
     text-align: center;
     color: white;
@@ -5,7 +10,5 @@
     padding: 10px;
 }
 
-#navbarNav {
-   align-items: end;
-}
+
 
